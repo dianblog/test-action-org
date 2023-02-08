@@ -10,10 +10,6 @@ class TestActionApplicationTests {
     void contextLoads() {
 
         assert 1 == 1;
-
-
-
-
     }
 
 }
